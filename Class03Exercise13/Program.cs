@@ -7,7 +7,7 @@ namespace Class03Exercise13
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            tring response = "";
+            String response = "";
 
             // For int i = 0; i <= 5; i++
             // Console.ReadLine("Enter a number less than 5)");
